@@ -1,0 +1,23 @@
+FUNÇÃO COM JS           REUTILIZAÇÃO DE CÓDIGO 
+                        POO REUTILIZAÇÃO DE CÓDIGO
+
+FUNCAO COM RETURN
+FUNCAO SEM RETURN 
+FUNCAO COM PARAMETRO
+FUNCAO SEM PARAMETRO 
+        FUNCAO ASSINCRONA    *2º MODULO
+        FUNCAO DE SETA     () => {}    *2º MODULO
+            =>      () =>
+        PROMISE
+        CALLBACK
+
+function subtrair (num1, num2){      //parametros    // escopo local
+}
+var num1 = 20 // escopo global
+
+var a = 10
+var b = "10"
+
+console.log(a == b)   // verdadeiro
+console.log(a === b)     // falso
+
